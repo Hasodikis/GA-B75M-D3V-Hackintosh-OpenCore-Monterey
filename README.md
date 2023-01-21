@@ -1,7 +1,9 @@
 # GA-B75M-D3V-(or -D3H)
 
 Based on the work of hnanoto (https://github.com/hnanoto/EFI-Desktop-Gigabayte-GA-B75m_D3H---i7-3770---RX-570-)
+
 OpenCore 0.8.8 
+
 Mac Os 12.6.2 (Monterey)
 
 Everything works up to now and to the extend I have checked.....
