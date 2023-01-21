@@ -1,7 +1,11 @@
-# GA-B75M-D3V-(or -D3H)-Hackintosh-Big-Sur-
+# GA-B75M-D3V-(or -D3H)
 
-This is a testing repo for a hackintosh GA-B75M-D3V on Gig Sur.
-Not  fully Working yet..... but very very close.....
+Based on the work of hnanoto (https://github.com/hnanoto/EFI-Desktop-Gigabayte-GA-B75m_D3H---i7-3770---RX-570-)
+
+Everything works up to now and to the extend I have checked.....
+
+As always .... fill in platform info
+
 
 Components
 
@@ -11,11 +15,9 @@ Alpenfohn Sella CPU Cooler
 
 Gigabyte GA-B75M-D3V Motherboard
 
-12GB  DDR3 1600MHz Memory 
+16GB  DDR3 1600MHz Memory 
 
 ENERMAX 82 PRO 425 W PSU
-
-Samsung SATA III 2.5-Inch SSD 250 gb SSD
 
 SanDisk Ultra II 240GB SATA III 2.5-Inch SSD 
 
@@ -27,4 +29,4 @@ Sapphire RX 560 Pulse 2GB Graphics Card
 
 NZXT Case (no data for model)
 
-Tp-Link TL-WN722N WLAN USB 
+Tp-Link TL-WN722N WLAN USB (https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
