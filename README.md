@@ -38,9 +38,10 @@ Tp-Link TL-WN722N WLAN USB (https://github.com/chris1111/Wireless-USB-Big-Sur-Ad
 # PROBLEMS SO FAR
 1. When loading OpenCore I get one ACPI error:
 00:000 00:000 OC: Failed to drop ACPI 54445353 0074734930757043 0 (0) - Not Found
+(SOLVED)
 
 2. I am having restart and sleep issues.
 a. Computer fails to wake from sleep. 
-b. When restarting it show that the computer shut down due to an error. 
+b. When restarting or booting after shutdown it shows that the computer shut down due to an error. 
 
-3. If when loging in the selected default sound output is headphones, then go in config.plist->DeviceProperties-> Add-> PciRoot(0x0)/Pci(0x1b,0x0) and change layout-id from 0B000000 to 05000000   
+3. If when loging in the selected default sound output is headphones, then go in config.plist->DeviceProperties-> Add-> PciRoot(0x0)/Pci(0x1b,0x0) and change layout-id from 0B000000 to 05000000  (SOLVED) 
