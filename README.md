@@ -44,4 +44,7 @@ Tp-Link TL-WN722N WLAN USB (https://github.com/chris1111/Wireless-USB-Big-Sur-Ad
 a. Computer fails to wake from sleep. 
 b. When restarting or booting after shutdown it shows that the computer shut down due to an error. 
 
+(patrially solved: On Finder, goto /Library/Logs/DiagnosticReports
+delete all files)
+
 3. If when loging in the selected default sound output is headphones, then go in config.plist->DeviceProperties-> Add-> PciRoot(0x0)/Pci(0x1b,0x0) and change layout-id from 0B000000 to 05000000  (SOLVED) 
